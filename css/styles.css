@@ -294,8 +294,8 @@ button {
   background-repeat: no-repeat;
   background-position: center;
   block-size: cover;
-  padding-top: 188px;
-  padding-bottom: 188px;
+  padding-top: 72px;
+  padding-bottom: 72px;
   max-width: 1440px;
   margin: 0 auto;
   background-size: cover;
@@ -323,7 +323,7 @@ button {
   line-height: 1.07;
   text-align: center;
   color: #fff;
-  margin-bottom: 72px;
+  margin-bottom: 116.463px;
   max-width: 496px;
 }
 
@@ -1063,6 +1063,8 @@ button {
         rgba(46, 47, 66, 0.7)
       ),
       url(../images/bg-home-tab.jpg);
+    padding-top: 112px;
+    padding-bottom: 112px;
   }
 
   @media screen and (min-resolution: 2dppx),
@@ -1148,8 +1150,8 @@ button {
   .container {
     width: 100%;
     max-width: 1158px;
-    padding-left: 16px;
-    padding-right: 16px;
+    padding-left: 15px;
+    padding-right: 15px;
     margin: 0 auto;
   }
 
@@ -1189,6 +1191,8 @@ button {
         rgba(46, 47, 66, 0.7)
       ),
       url(../images/bg-home-pc.jpg);
+    padding-top: 188px;
+    padding-bottom: 188px;
   }
 
   @media screen and (min-resolution: 2dppx),
